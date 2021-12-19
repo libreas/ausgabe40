@@ -1,0 +1,3 @@
+---
+
+**Elisa Frei** studierte Internationale Entwicklung an der Universität Wien und der Universidad de Salamanca. Sie schrieb ihre Masterarbeit zum Thema <q>Ethnologische Museen im 21. Jahrhundert</q> und analysierte den Umgang zweier ethnologischer Museen (dem Berliner Ethnologischen Museum und dem Weltmuseum Wien) mit der Kolonialgeschichte. Während ihres Geschichtestudiums an der Universität Wien nahm sie an Seminaren zur "Vielstimmigkeit kolonialer Diskurse in Bibliotheken" teil, im Rahmen derer dieser Artikel entstand. 
