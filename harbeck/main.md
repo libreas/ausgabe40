@@ -5,7 +5,7 @@ einer privilegierten Elite vorbehalten war, ist nun grenzüberschreitend
 in aller Welt digital und kostenlos verfügbar. Es fallen keine teuren
 Reisekosten mehr an, um Unikate in Spezialbibliotheken einzusehen. Die
 FAIR-Prinzipien (*Findable, Accessible, Interoperable, Reusable*)
-unterstreichen diesen Anspruch der Sichtbarkeit und Verbreitung von
+unterstreichen diesen Anspruch, der Sichtbarkeit und Verbreitung von
 Wissen zu dienen -- viele Infrastruktureinrichtungen orientieren sich
 mittlerweile an ihnen. Es bleibt aber zu hinterfragen, ob die digitale
 Form wirklich allen einen besseren Zugang ermöglicht: Digitalisierung
@@ -21,17 +21,17 @@ genutzten Wissenschaftssprachen recherchierbar sind. Und selbst wenn
 diese Grundvoraussetzungen einer Nutzung der Digitalisate gegeben wäre,
 bleibt bei Materialien aus kolonialen Kontexten[^1] die Frage, ob dann
 das ihnen innewohnende koloniale Machtgefüge durch die neuen
-Zugriffsmöglichkeiten tatsächlich aufgelöst wird, oder nicht doch eher
+Zugriffsmöglichkeiten tatsächlich aufgelöst, oder nicht doch eher
 durch die Publikation teils rassistischer, aber in jedem Fall durch
 ihren Zeitgeist beeinflusster Materialien in anderer, also digitaler
-Form reproduziert. Damit könnte es zu einer antagonistischen
+Form reproduziert wird. Damit könnte es zu einer antagonistischen
 Gegenüberstellung der FAIR-Prinzipien mit den sogenannten
 CARE-Prinzipien (*Collective Benefit, Authority to Control,
-Responsibility, Ethics*) kommen, bei der indigene Rechte an ihren
+Responsibility, Ethics*) kommen, bei der indigene Rechte an den
 eigenen Daten (auch denen, die von anderen über sie erhoben wurden) und
 auch die Hoheit darüber dem freien Zugang entgegengesetzt werden.[^2]
 Der folgende Artikel möchte dieses Spannungsverhältnis am Beispiel von
-Materialien aus kolonialen Kontexten verdeutlichen und zur Debatte
+Materialien aus kolonialen Kontexten verdeutlichen und zur Diskussion
 stellen, ob und inwieweit ethische Vorbehalte in der
 Massendigitalisierung dieser Ressourcen berücksichtigt werden
 können/sollten.
@@ -48,7 +48,7 @@ entwickeln, wenn sie in eine (vermeintlich) leichter zugängliche und
 verbreitungsfähige digitale Form umgewandelt werden.
 
 Seit Jahren digitalisieren vor allem Bibliotheken und Archive Texte und
-Dokumente, um ihren Nutzenden Informationen digital und ortsunabhängig
+Dokumente, um ihren Nutzenden Informationen digital und damit zeit- und ortsunabhängig
 zur Verfügung zu stellen, oft im Zusammenhang mit der
 Open-Access/Open-Science-Bewegung oder einfach als Teil der sogenannten
 Bestandserhaltung zur Schonung der fragilen Materialien in der Benutzung
@@ -199,8 +199,8 @@ Königspalastes in Bamum. 4. Haarschmuck von Tikar-Frauen.
 (Hervortretende Kropfbildung)*
 
 In ihrer Präsentation der Anderen als überwiegend Nackte -- zum Teil
-gepaart mit Unterschriften wie "Unter Wilden" oder wie bei Boas Werk im
-Zusammenspiel mit dem Werktitel "Primitive Art" wird die Assoziation der
+gepaart mit Unterschriften wie "Unter Wilden" oder wie bei Boas' Werk im
+Zusammenspiel mit dem Werktitel "Primitive Art" -- wird die Assoziation der
 zivilisatorischen Unterlegenheit geweckt. Darstellungen biologistischer
 Körpervermessungen ("Physiognomien"), die Subjekte zu Objekten
 degradieren und die Etablierung (oder Reaktivierung) von Stereotypen
@@ -214,7 +214,7 @@ im Internet wird dies problematisch, da die Forschungszusammenhänge --
 gerade bei Tafelseiten -- oftmals für Lai\*innen nicht ersichtlich sind.
 
 Verbunden mit den allgemeinen Fragen der freien Bereitstellung dieser
-Ressourcen auf unseren Servern, sind Fragen der Nutzung dieser
+Ressourcen auf unseren Servern sind Fragen der Nutzung dieser
 Materialien für die Öffentlichkeitsarbeit und in der Informationspolitik
 zu den Materialien: Für unsere Webseite
 [www.evifa.de](http://www.evifa.de) haben wir
@@ -283,21 +283,16 @@ einem Vortrag zu "Access or ethics? Digitization of imperial times
 materials and its consequences" eingebracht und hat es in zwei eigenen
 Workshops am 8. Juli 2021 -- einer mit Forschenden und einer mit
 Bibliothekar\*innen und Digitalisierenden -- wieder aufgenommen. Dies
-sollen erste Schritte sein, um auf verschiedene Communities -- auch die
+sollen erste Schritte sein, um auf verschiedene Communitys -- auch die
 Forschenden in den Ursprungsgesellschaften -- zuzugehen und eine Policy
 im Umgang mit diesen ethischen Problemfeldern im Digitalisierungsprozess
 zu entwickeln. Die Positionen können dabei sehr unterschiedlich sein und
 es wird spannend zu sehen sein, wie diese übereingebracht werden können:
-Im Vorgespräch zum Workshop am 8.7.2021 mit einem senegalesischen
-Germanisten, der mit solchen Materialien arbeitet, war der Tenor, dass
-möglichst alles frei verfügbar im Netz angeboten werden sollte und die
-wichtigste Frage wäre neben einer angemessenen Kontextualisierung, wie
-dieses Material für jene, die kein Deutsch lesen können, auffind- und
-nutzbar gemacht werden könnte. Gemeinsame Projekte zur inhaltlichen
-Erschließung mittels verknüpfter, kontrollierter Vokabulare wären hier
-ein möglicher Weg. Die europäischen Forschenden, die am SIEF-Panel
+Im Rahmen der Workshops gab es recht unterschiedliche Stimmen, auch aus den so genannten Herkunftsgesellschaften. Einerseits wurde neben einer angemessenen Kontextualisierung angemahnt, die Materialien umfassend in den Regionen bekannt zu machen. Dieses Anliegen wurde mit der Frage verbunden, wie dieses Material für jene auffind- und nutzbar gemacht werden könnte, die kein Deutsch lesen können. Andererseits wurde aber auch auf Inhalte verwiesen, die durch ihre bloße Sichtbarkeit im Netz lokale Verantwortliche in Erklärungsnöte und soziale Bedrängnis brächten. 
+Gemeinsame Projekte zur inhaltlichen
+Erschließung mittels verknüpfter, kontrollierter Vokabulare und gemeinsame Sichtungen des Materials im Vorwege einer Digitalisierung wären hier mögliche Wege. Die europäischen Forschenden, die am SIEF-Panel
 teilnahmen, sahen die Offenheit wesentlich kritischer und plädierten
-eher für eine restriktivere Digitalisierungspolitik. Ein Ausgleich
+eher für eine restriktivere Digitalisierungspolitik. Einen Ausgleich
 dieser Positionen zu finden, ist eine anstehende Aufgabe des FID SKA.
 Und bestenfalls ergibt sich aus diesen Aktivitäten auch ein Dialog mit
 den Fördereinrichtungen über neue Wege der Digitalisierung, die ethische
@@ -403,5 +398,5 @@ zuletzt geprüft am 08.05.2019.
     2020.
 
 [^9]: Vergleiche zu dem Komplex der Schwierigkeit der Abbildung solcher
-    Materialien den Sammelband *Heikles Erbe* von Poser und Baumann
+    Materialien den Sammelband *Heikles Erbe* von von Poser und Baumann
     2016.
