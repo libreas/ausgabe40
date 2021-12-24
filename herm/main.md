@@ -26,8 +26,7 @@ internationale beziehungsweise transkulturelle Kooperationen
 angestoßen.[^7] Und: Es wurde auch -- bislang vereinzelt --
 restituiert.[^8]
 
-Auch wenn bislang die Dekolonisierung von musealen Objektsammlungen (wie
-‒ perspektivisch ‒ jüngst die Dekoloniale-Veranstaltungen am 25. und 26.
+Auch wenn bislang die Dekolonisierung von musealen Objektsammlungen (wie -- perspektivisch -- jüngst die Dekoloniale-Veranstaltungen am 25. und 26.
 Juni 2021 in Berlin[^9]) die Aufmerksamkeit weitgehend auf sich zieht,
 geht das Thema des Umgangs mit der kolonialen Vergangenheit und den
 Auswirkungen des europäischen/deutschen Kolonialismus bis in die
@@ -149,15 +148,9 @@ Emanzipation untersucht wurden, wenden die seit den 1990er Jahren
 bestehenden Critical Whiteness Studies den Blick auf das rassifizierende
 Subjekt.
 
-Susan Arndt stellt klar, dass "es nicht darum \[geht\], ontologisierend
-oder essentialisierend die Existenz des '*weißen* Menschen' oder einer
-'*weißen* Kultur', zu postulieren, vielmehr ist Weißsein als eine
-Konstruktion des Rassismus zu lesen, die kollektive Wahrnehmungs-,
-Wissens- und Handlungsmuster konstituiert hat. Damit präsentiert sich
-Weißsein als eine historisch und kulturell geprägte symbolische und
-soziale Position, die mit Macht und Privilegien einhergeht und sich auch
-unabhängig von Selbstwahrnehmungen und jenseits offizieller
-Institutionen individuell wie kollektiv manifestiert."[^22]
+Susan Arndt stellt klar, dass 
+
+> "es nicht darum \[geht\], ontologisierend oder essentialisierend die Existenz des '*weißen* Menschen' oder einer '*weißen* Kultur', zu postulieren, vielmehr ist Weißsein als eine Konstruktion des Rassismus zu lesen, die kollektive Wahrnehmungs-, Wissens- und Handlungsmuster konstituiert hat. Damit präsentiert sich Weißsein als eine historisch und kulturell geprägte symbolische und soziale Position, die mit Macht und Privilegien einhergeht und sich auch unabhängig von Selbstwahrnehmungen und jenseits offizieller Institutionen individuell wie kollektiv manifestiert."[^22]
 
 Zentrales Anliegen der seit 2005 auch im und für den deutschsprachigen
 Kontext betriebenen kritischen Weißseins-Forschung ist also das
@@ -167,20 +160,16 @@ herangezogen, um die Maßgeblichkeit und unterstellte Normalität des
 'Weißen', demgegenüber Abweichungen 'unnormal' und 'anders' ist,
 wahrzunehmen. Dabei ist die Frage nach Weißsein aufgrund der inneren
 Zusammenhänge eng verknüpft mit der Auseinandersetzung mit Rassismus,
-Kolonialismus und kolonialer Geschichte. Arndt begreift "Rassismus
-\[\...\] als Komplex von Gefühlen, Vorurteilen, Vorstellungen, Ängsten,
-Phantasien und Handlungen, mit denen Weiße aus einer weißen hegemonialen
-Position heraus Schwarze und People of Color strukturell und diskursiv
-positionieren und einem breiten Spektrum ihrer Gewalt aussetzen. \[Er\]
-baut auf von Weißen in Europa entwickelten 'Rassentheorien' auf, die den
-Anspruch auf Wissenschaftlichkeit erhoben haben". [^23]
+Kolonialismus und kolonialer Geschichte. Arndt begreift 
+
+> "Rassismus \[\...\] als Komplex von Gefühlen, Vorurteilen, Vorstellungen, Ängsten, Phantasien und Handlungen, mit denen Weiße aus einer weißen hegemonialen Position heraus Schwarze und People of Color strukturell und diskursiv positionieren und einem breiten Spektrum ihrer Gewalt aussetzen. \[Er\] baut auf von Weißen in Europa entwickelten 'Rassentheorien' auf, die den Anspruch auf Wissenschaftlichkeit erhoben haben." [^23]
 
 Beim Sichtbarmachen geht es auch um das Benennen der eigenen Position,
 denn: "Weil jeder von einem bestimmten Ort, einer bestimmten Zeit, aus
 einer bestimmten Geschichte und Kultur sieht, spricht und schreibt, sind
-auch Fragestellungen und Ergebnisse an die Position zurückgebunden, von
-der aus sie formuliert sind.[^24] Schließlich geht es um Hierarchien und
-Positionen ‒ und damit um das Identifizieren von Macht in einem System,
+auch Fragestellungen und Ergebnisse an die Position zurückgebunden, von
+der aus sie formuliert sind."[^24] Schließlich geht es um Hierarchien und
+Positionen -- und damit um das Identifizieren von Macht in einem System,
 in dem einige die Profiteur\*innen auf Kosten anderer, der
 Unterprivilegierten, sind.
 
@@ -261,9 +250,7 @@ und exkludierende Wirkung.[^33] Laut Melissa Adler führt die
 Universalität bibliothekarischer Wissensorganisationssysteme zu gewissen
 "Blindheiten". Sie bemerkt in ihrem 2017 erschienenen Werk *Cruising the Library -- Perversities in the Organization of Knowledge*:
 
-"The organization of unified subjects around a heteropatriarchal
-universality that assumes whiteness inhibits analysis that interweaves
-sexualities with racial and ethnic dimensions."[^34]
+> "The organization of unified subjects around a heteropatriarchal universality that assumes whiteness inhibits analysis that interweaves sexualities with racial and ethnic dimensions."[^34]
 
 In eine ähnliche Richtung kritisiert Karin Aleksander in dem Artikel
 *"Die Frau im Bibliothekskatalog"* im Hinblick auf die Vergabe von
@@ -271,34 +258,14 @@ Schlagworten, dass stereotypische Geschlechterrollenmodelle die
 unbewusste Basis für die Ansetzungen bilden.[^35] Nach ihrer Bewertung
 ist
 
-"\[d\]iese Unterordnung von Frauenaspekten unter Männerallgemeinheiten
-\[\...\] am schwersten zu durchschauen und deshalb auch nur mit
-wachsender Erkenntnis, Überzeugung und Voranschreiten der
-gesellschaftlichen Entwicklung zu verändern."[^36]
+> "\[d\]iese Unterordnung von Frauenaspekten unter Männerallgemeinheiten \[\...\] am schwersten zu durchschauen und deshalb auch nur mit wachsender Erkenntnis, Überzeugung und Voranschreiten der gesellschaftlichen Entwicklung zu verändern."[^36]
 
 Um die große Herausforderung einer systemischen Transformation zu einer
 echten Gleichberechtigung und Gleichwertigkeit der Geschlechter zu
 unterstreichen, zitiert sie Pierre Bourdieu:
 
-"Wenn es darum geht, die soziale Welt zu denken, kann man die
-Schwierigkeiten bzw. Risiken gar nicht hoch genug veranschlagen. Die
-Macht des Präkonstruierten liegt darin, daß es zugleich in die Dinge und
-in die Köpfe eingegangen ist und sich deshalb mit einer Scheinevidenz
-präsentiert, die unbemerkt durchgeht, weil sie selbstverständlich ist.
-Der Bruch ist eigentlich eine Konversion des Blicks, und vom Unterricht
-in soziologischer Forschung kann man sagen, daß er zuallererst lehren
-muß, "mit anderen Augen zu sehen" ... Und das ist nicht möglich ohne
-eine echte Konversion, eine metanoia, eine mentale Revolution, einen
-Wandel der ganzen Sicht der sozialen Welt.
-
-Was man den 'epistemologischen Bruch' nennt, also die vorübergehende
-Außerkraftsetzung der gewöhnlichen Präkonstruktionen und der gewöhnlich
-bei der Realisierung dieser Konstruktionen angewandten Prinzipien, setzt
-oft einen Bruch mit den Denkweisen, Begriffen, Methoden voraus, die
-allen Anschein des common sense, der gewöhnlichen Alltags- und
-Wissenschaftsvernunft (also alles dessen, was die herrschende
-positivistische Disposition honoriert und anerkennt) für sich
-haben."[^37]
+> "Wenn es darum geht, die soziale Welt zu denken, kann man die Schwierigkeiten bzw. Risiken gar nicht hoch genug veranschlagen. Die Macht des Präkonstruierten liegt darin, daß es zugleich in die Dinge und in die Köpfe eingegangen ist und sich deshalb mit einer Scheinevidenz präsentiert, die unbemerkt durchgeht, weil sie selbstverständlich ist. Der Bruch ist eigentlich eine Konversion des Blicks, und vom Unterricht in soziologischer Forschung kann man sagen, daß er zuallererst lehren muß, 'mit anderen Augen zu sehen' ... Und das ist nicht möglich ohne eine echte Konversion, eine metanoia, eine mentale Revolution, einen Wandel der ganzen Sicht der sozialen Welt.\
+> Was man den 'epistemologischen Bruch' nennt, also die vorübergehende Außerkraftsetzung der gewöhnlichen Präkonstruktionen und der gewöhnlich bei der Realisierung dieser Konstruktionen angewandten Prinzipien, setzt oft einen Bruch mit den Denkweisen, Begriffen, Methoden voraus, die allen Anschein des common sense, der gewöhnlichen Alltags- und Wissenschaftsvernunft (also alles dessen, was die herrschende positivistische Disposition honoriert und anerkennt) für sich haben."[^37]
 
 Die Erkenntnis über die tiefsitzende Verankerung von Vorurteilen, die
 Aleksander in Bezug auf die Kategorie Gender konstatiert, lässt sich bei
@@ -321,7 +288,7 @@ der Kontextualisierung von Titeln durch Katalogisierung kaum markiert.
 Tanja Heber geht in ihrem schon zitierten Buch *Die Bibliothek als Speichersystem des kulturellen Gedächtnisses* 
 auf die Interdependenz
 zwischen Staat und Bibliothek ein, indem sie darauf verweist, dass der
-Aufbau von Staat und Verwaltung die Grundlage für die Organisation
+Aufbau von Staat und Verwaltung die Grundlage für die Organisation
 bibliothekarischer Arbeit bildet.[^39]
 
 Mit ihrem Ansatz der Einteilung, Strukturierung, Normierung,
@@ -334,10 +301,7 @@ Sebastian Conrad und Shalini Randeria beschreiben in ihrem Buch
 die Rolle und Wirkung des modernen
 Wissens im kolonialen Projekt dahingehend, dass es
 
-"(\...) nicht nur Instrument und Waffe \[war\], sondern selbst Produkt
-eines Kontextes diskursiver Praktiken. Die kulturellen und sozialen
-Zusammenhänge der kolonialen Epoche hatten daher in den Produkten der
-europäischen Wissensordnung ihre Spuren hinterlassen."[^40]
+> "(\...) nicht nur Instrument und Waffe \[war\], sondern selbst Produkt eines Kontextes diskursiver Praktiken. Die kulturellen und sozialen Zusammenhänge der kolonialen Epoche hatten daher in den Produkten der europäischen Wissensordnung ihre Spuren hinterlassen."[^40]
 
 Insofern besteht eine enge Wechselbeziehung zwischen Kolonialismus und
 Wissenschaft: Die Wissensproduktion des Westens lässt sich in den
@@ -511,7 +475,7 @@ Außerdem fungiert die Kommission als Geschäftsstelle des Arbeitskreises
 Letzterer, ein Zusammenschluss von im bibliothekarischen Bereich tätigen
 Provenienzforscher\*innen, trifft sich regelmäßig zum
 Erfahrungsaustausch und erarbeitet Vorschläge für die Umsetzung
-bibliothekarischer Anliegen  im Zusammenhang mit der Recherche nach
+bibliothekarischer Anliegen im Zusammenhang mit der Recherche nach
 NS-Raubgut.[^66] Das Themenfeld Koloniale Provenienz ist relativ neu auf
 der Agenda des dbv.
 
@@ -536,17 +500,9 @@ Als weiterer Aspekt der Beschäftigung einer eventuell kolonial geprägten
 Herkunft von Sammlungsmaterial ist die Markierung der Provenienz in
 Bibliothekskatalogen und sonstigen -datenbanken festzuhalten. Laut
 Michaela Scheibe, der Vorsitzenden der dbv-Kommission
-Provenienzforschung, "\[erlaubt\] die etablierte Form der
-Provenienzverzeichnung für Buchbestände auch die Verzeichnung der
-Exemplargeschichte bei kolonialen Kontexten (sowohl in den
-Katalogdatenbanken als auch im von ihr federführend unterhaltenen
-ProvenienzWiki). Damit ist der jeweilige Einzelfall abgedeckt, ohne dass
-eine pauschalisierte Zuordnung zum kolonialen Kontext erfolgt. Was
-derzeit noch diskutiert werden muss, ist die Aufnahme eines
-entsprechenden Deskriptors in den Thesaurus der Provenienzbegriffe --
-T-PRO (analog zu NS-Raubgut, Enteignung, Bodenreform...). In diesem
-Zusammenhang muss auch definiert werden, was unter diesen Begriff im
-Rahmen der Bibliotheksbestände fallen soll."[^71]
+Provenienzforschung, 
+
+> "\[erlaubt\] die etablierte Form der Provenienzverzeichnung für Buchbestände auch die Verzeichnung der Exemplargeschichte bei kolonialen Kontexten (sowohl in den Katalogdatenbanken als auch im von ihr federführend unterhaltenen ProvenienzWiki). Damit ist der jeweilige Einzelfall abgedeckt, ohne dass eine pauschalisierte Zuordnung zum kolonialen Kontext erfolgt. Was derzeit noch diskutiert werden muss, ist die Aufnahme eines entsprechenden Deskriptors in den Thesaurus der Provenienzbegriffe -- T-PRO (analog zu NS-Raubgut, Enteignung, Bodenreform...). In diesem Zusammenhang muss auch definiert werden, was unter diesen Begriff im Rahmen der Bibliotheksbestände fallen soll."[^71]
 
 #### 5.4 BID-Theorie: Veröffentlichungen zu postkolonialen Themen im LIS-Bereich
 
@@ -582,7 +538,7 @@ Bibliotheken nachgewiesen. Schließlich ist der Titel *Pushing the Margins: Wome
 laut KVK
 dreimal in deutschen Bibliotheken im Printformat verfügbar. Der Titel
 *Borders and Belonging: Critical Examinations of Library Approachestoward Immigrants*[^79] ist bislang an fünf Einrichtungen verfügbar. Im
-Frühling 2022 soll in der Serie der Band *Everywhere and Nowhere - Understanding Diaspora in the Library*[^80] 
+Frühling 2022 soll in der Serie der Band *Everywhere and Nowhere: Understanding Diaspora in the Library*[^80] 
 erscheinen. Ebenfalls im
 laufenden Jahr ist bei MIT Press der im Open Access verfügbare
 Sammelband *Knowledge Justice: Disrupting Library and Information Studies through Critical Race Theory*[^81] 
@@ -942,7 +898,7 @@ verstanden werden.
     Kolonialgeschichte",
     <https://www.bundesarchiv.de/DE/Navigation/Entdecken/Kolonialgeschichte/kolonialgeschichte.html>
 
-[^55]: Bundesarchiv, "Zwischen Bestandserhaltung und Bühnennebel -
+[^55]: Bundesarchiv, "Zwischen Bestandserhaltung und Bühnennebel --
     Deutsche Kolonialakten in Kamerun",
     <https://www.bundesarchiv.de/DE/Content/Artikel/Ueber-uns/Aus-unserer-Arbeit/Textsammlung-Kamerun/kamerun.html?chapterId=38386>
 
@@ -987,7 +943,7 @@ verstanden werden.
     Deutscher Museumsbund, 2019,
     <https://www.museumsbund.de/wp-content/uploads/2020/01/dmb-leitfaden-professionell-arbeiten-online.pdf>
 
-[^68]: Sammlungsgut aus Kolonialen Kontexten ‒ Stellungnahme des
+[^68]: Sammlungsgut aus Kolonialen Kontexten -- Stellungnahme des
     Deutschen Kulturrates, 20.2.2019, S. 6
     <https://www.kulturrat.de/wp-content/uploads/2019/03/Dossier-Kolonialismus.pdf>
     (zugegriffen am 15.6.2019); es gab im Frühjahr 2019 eine erste
