@@ -1,0 +1,3 @@
+---
+
+**Dr. Antonia Paula Herm** (LL.M., Maître en droit, M.A. (LIS)) hat Rechtswissenschaft in Potsdam, Paris und Aberdeen und berufsbegleitend Bibliotheks- und Informationswissenschaft in Berlin studiert. Sie ist derzeit als wissenschaftliche Mitarbeiterin für den Fachinformationsdienst für internationale und interdisziplinäre Rechtsforschung an der Staatsbibliothek zu Berlin tätig.
