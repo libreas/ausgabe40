@@ -15,7 +15,7 @@ tatsächlich vereinfacht wird. Auch muss ein Wissen um die Angebote sowie
 die Fähigkeiten diese zu navigieren, zu verstehen (und Sprachbarrieren
 zu überwinden) und zu benutzen bei allen potentiellen Nutzenden
 vorhanden sein, damit sich die Angebote nicht wieder nur an
-privilegierte Gruppen richtet. Um Sprachbarrieren zu überwinden, würde
+privilegierte Gruppen richten. Um Sprachbarrieren zu überwinden, würde
 dies Metadaten (Schlagwörter, Beschreibungen) voraussetzen, die in breit
 genutzten Wissenschaftssprachen recherchierbar sind. Und selbst wenn
 diese Grundvoraussetzungen einer Nutzung der Digitalisate gegeben wäre,
@@ -106,7 +106,7 @@ das im FID SKA digitalisiert wird, zu einigen Fragen:
 
 3. Das auf diese Weise zumindest im sogenannten Globalen Norden meist einfacher zugängliche Material ist in der neuen Form leicht reproduzierbar, multiplizierbar und aus seinem Kontext entnehmbar. Möchte und sollte man als Einrichtung unkontrollierten Zugriff gewähren oder haben die Einrichtungen eine ethische und didaktische Verantwortung, Präsentation und Zugriff zu regulieren und zu kontextualisieren?
 
-Und wie können Ursprungsgesellschaften beziehungsweise der Globale Süden
+Und wie können sogenannte Herkunftsgesellschaften beziehungsweise der Globale Süden
 sowie die Bedürfnisse der Forschung bei diesen Entscheidungen und
 Diskussionen einbezogen werden, um hier nicht wieder koloniale
 Strukturen der Wissensordnung neu zu beleben? Für den
@@ -284,13 +284,13 @@ materials and its consequences" eingebracht und hat es in zwei eigenen
 Workshops am 8. Juli 2021 -- einer mit Forschenden und einer mit
 Bibliothekar\*innen und Digitalisierenden -- wieder aufgenommen. Dies
 sollen erste Schritte sein, um auf verschiedene Communitys -- auch die
-Forschenden in den Ursprungsgesellschaften -- zuzugehen und eine Policy
+Forschenden in den Herkunftsgesellschaften -- zuzugehen und eine Policy
 im Umgang mit diesen ethischen Problemfeldern im Digitalisierungsprozess
 zu entwickeln. Die Positionen können dabei sehr unterschiedlich sein und
 es wird spannend zu sehen sein, wie diese übereingebracht werden können:
-Im Rahmen der Workshops gab es recht unterschiedliche Stimmen, auch aus den so genannten Herkunftsgesellschaften. Einerseits wurde neben einer angemessenen Kontextualisierung angemahnt, die Materialien umfassend in den Regionen bekannt zu machen. Dieses Anliegen wurde mit der Frage verbunden, wie dieses Material für jene auffind- und nutzbar gemacht werden könnte, die kein Deutsch lesen können. Andererseits wurde aber auch auf Inhalte verwiesen, die durch ihre bloße Sichtbarkeit im Netz lokale Verantwortliche in Erklärungsnöte und soziale Bedrängnis brächten. 
+Im Rahmen der Workshops gab es recht unterschiedliche Stimmen, auch aus den Herkunftsgesellschaften. Einerseits wurde neben einer angemessenen Kontextualisierung angemahnt, die Materialien umfassend in den Regionen bekannt zu machen. Dieses Anliegen wurde mit der Frage verbunden, wie dieses Material für jene auffind- und nutzbar gemacht werden könnte, die kein Deutsch lesen können. Andererseits wurde aber auch auf Inhalte verwiesen, die durch ihre bloße Sichtbarkeit im Netz lokale Verantwortliche in Erklärungsnöte und soziale Bedrängnis brächten. 
 Gemeinsame Projekte zur inhaltlichen
-Erschließung mittels verknüpfter, kontrollierter Vokabulare und gemeinsame Sichtungen des Materials im Vorwege einer Digitalisierung wären hier mögliche Wege. Die europäischen Forschenden, die am SIEF-Panel
+Erschließung mittels verknüpfter, kontrollierter Vokabulare und gemeinsame Sichtungen des Materials im Vorwege einer Digitalisierung wären hier mögliche Wege der kritisch-konstruktiven Zusammenarbeit. Die europäischen Forschenden, die am SIEF-Panel
 teilnahmen, sahen die Offenheit wesentlich kritischer und plädierten
 eher für eine restriktivere Digitalisierungspolitik. Einen Ausgleich
 dieser Positionen zu finden, ist eine anstehende Aufgabe des FID SKA.
