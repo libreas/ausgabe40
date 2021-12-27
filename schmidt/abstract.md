@@ -8,10 +8,10 @@
 
 ---
 
-**Abstract**: *Objective* – The article summarises the argumentation of my PhD thesis that investigates how the work with scholarly publications in libraries and by information service providers privileges contributions to the research system from the "Global North." The thereby reproduced social injustice can be termed "coloniality." The article presents options for libraries to initiate their own decolonization.
+**Abstract**: *Objective* – The article summarises the argumentation of my PhD thesis that investigates how the work with scholarly publications in libraries and by information service providers privileges contributions to the research system from the "Global North". The thereby reproduced social injustice can be termed "coloniality". The article presents options for libraries to initiate their own decolonization.
 
 *Methods* – The summary is solely argumentative and refers to the diverse empirical studies of the PhD thesis only implicitly.
 
-*Results* – The permeability for scholarly communication media from the "Global South" is recognised as an important passage for coloniality, in particular the separation of area studies from the core disciplines, the inclusion criteria of bibliographic databases and package products from information service providers, scientometrics and the associated quantification of scholarly communication, the commercialization of Open Access and the focus of collection development on "demand."
+*Results* – The permeability for scholarly communication media from the "Global South" is recognised as an important passage for coloniality, in particular the separation of area studies from the core disciplines, the inclusion criteria of bibliographic databases and package products from information service providers, scientometrics and the associated quantification of scholarly communication, the commercialization of Open Access and the focus of collection development on "demand".
 
 *Conclusions* – Neutrality as one of the core values of the librarian‘s professional ethics should be re-conceptualized in Europe as culturally humble neutrality, in order to counter coloniality, reflect on one’s own privileged position and accept increased effort. Although this leads to more complexity in the research system, it offers the opportunity for productive irritation and incentives for cooperation.
